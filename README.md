@@ -1,5 +1,7 @@
 # How to perform Pytest tests #
-First install the requirements.txt file using the command: pip install -r requirements.txt
+First install the requirements.txt file using the command:
+
+pip install -r requirements.txt
 
 Then run the tests using the command: pytest
 
